@@ -1,7 +1,7 @@
 # DeepLearning-Hot-Topics
 
 
-[**1.Back Propagation Implementation**](https://github.com/snehaNegi/MACHINE-LEARNING-HOT-TOPICS/blob/main/PCA%20and%20LDA%20implementation.ipynb) 
+[**1.Back Propagation Implementation**](https://github.com/snehaNegi/DeepLearning-Hot-Topics/blob/main/1.%20Implementing%20Backpropagation) 
 
 
 DataSet used: emotion_classification
